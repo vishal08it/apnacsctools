@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "name": "Apna CSC Kendra (Next.js + Built-in API)",
+      "path": "apna-csc-kendra"
+    }
+  ],
+  "settings": {
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay"
+  }
+}
